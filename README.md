@@ -26,7 +26,12 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:ilian6806@gmail.com'>ilian6806@gmail.com</a>
 </p>
-
+<p align="center">
+  You can always buy me a :beer:! <br/><br/>
+  <a href="https://www.paypal.com/paypalme/ilian6806">
+    <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate with PayPal"/>
+  </a>
+</p>
 
 <details>
   <summary>📃 Resume</summary>
