@@ -38,10 +38,10 @@
   <summary>📃 Resume</summary>
   <br/>
   <p>
-    I have significant knowledge of HTML, CSS3, Javascript, jQuery, AJAX, PHP, MySQL, NoSql, MongoDb, Node.js, Python, C#, .NET Core, Azure, Google Cloud and some Photoshop skills.
+    I have significant knowledge of Python, PHP, JavaScript, C#, MySQL, NoSQL, MongoDB, Node.js, .NET, Azure, Google Cloud, AWS, HTML, CSS3 and some Photoshop skills. Additionally, I have a keen interest in Large Language Models (LLM) and Artificial Intelligence (AI).  
   </p>
   <p>
-    I graduated from UNWE (University of National and World Economy) with a BS in Marketing. Although my academic background is in Economics, I am currently more interested in web and mobile development. I've been doing this since 2012 and I am constantly improving my skills in the field.
+    I graduated from UNWE (University of National and World Economy) with a BS in Marketing. Although my academic background is in Economics, I am currently more interested in software development. I've been working in this field since 2012 and continuously strive to improve my skills.
   </p>
   <p>
     Currently, I work for Imperia Online.
