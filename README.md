@@ -14,11 +14,11 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=ilian6806&theme=tokyonight&layout=compact" width="350"></a>
   <br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilian6806&theme=tokyonight&layout=compact" width="350"></a>
-</p>
+</p> -->
 
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
