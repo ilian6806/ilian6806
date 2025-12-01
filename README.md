@@ -5,13 +5,13 @@
 </h1>
 
 <p align='center'>
-  A fullstack developer from Bulgaria.
+ A full‑stack developer and AI enthusiast from Bulgaria.
 </p>
 
 <p align='center'>
   <a href="https://bg.linkedin.com/in/ilian-iliev-42487455">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 <!-- <p align='center'>
